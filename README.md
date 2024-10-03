@@ -2,7 +2,7 @@
 
 # FightMe!
 
-Have you ever been texting friends and thought that you want to do more, but everything requires more planning and effort than can be afforded? With FightMe, you can fight against your friends with characters that just chatting with people can level up.
+Have you ever texted friends and thought that you want to do more, but everything requires more planning and effort than can be afforded? With FightMe, you can fight against your friends with characters that just chatting with people can level up.
 
 ## UX Team Members
 
