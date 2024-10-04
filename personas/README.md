@@ -1,6 +1,6 @@
 # Personas
 
-([Personas.pdf](https://github.com/user-attachments/files/17264433/Personas.pdf)
+[Personas.pdf](https://github.com/user-attachments/files/17264433/Personas.pdf)
 
 
 # Scenarios
