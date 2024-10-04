@@ -18,4 +18,4 @@ With competitive analysis, we found that our competitors are free, but do have p
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+As we had no access to real users, we weren’t able to reliably gauge which age groups would actually take interest in this product. The creator of the idea not actually being on either the software engineering or usability engineering team was both a blessing and a curse, as we had to ascribe the need to fill independent of the original purpose, but it also gave us a lot more leeway to work with as the original vision could have gone beyond what is possible here. We had planned on using SnapChat for the heuristic evaluation, since it would have been the most similar application to our minimal viable product with its SnapScore, but we didn’t have access to it. 
