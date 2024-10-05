@@ -21,13 +21,25 @@ Have you ever texted friends and thought that you want to do more, but everythin
 
 **Executive Summary**
 
-* Competitive analysis showed there is a niche that can be filled:
+* Competitive analysis showed there is a niche of a messaging app and game combination that can be filled:
   * Discord: Excels in intuitive and large scale communication, but game integration is clunky and unsupported.
   * SnapChat: Excels in picture focused and temporary conversations, but user score is irrelevant.
   * Pokemon Go: Excels in being a social game, but lacks a chat feature.
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Heuristic evaluation put more focus on Discord, showing that it:
+  * has strengths:
+    * A wide array of customization.
+    * Provides a lot of support for new users on desktop.
+  * but also weaknesses:
+    * Most of the customization is locked behind a paywall.
+    * New users have less support on mobile.
+    * No safety nets for removing or blocking a friend.
+* Personas and scenarios allowed for a higher fidelity visualization of the users and their needs:
+  * Ages can range from high school to just entered the workforce.
+  * To be able to socialize even if they can't converse.
+  * A casual character leveling experience.
+* Sketches and diagrams showed that our app could:
+  * Arrange its components to smoothly flow into each other.
+  * Comfortably faciliate interactions.
 
 [Full phase I report](phaseI/)
 
