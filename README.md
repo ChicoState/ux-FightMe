@@ -22,8 +22,8 @@ Have you ever texted friends and thought that you want to do more, but everythin
 **Executive Summary**
 
 * Competitive analysis showed there is a niche that can be filled:
- * Discord: Excels in intuitive and large scale communication, but game integration is clunky and unsupported.
- * 
+  * Discord: Excels in intuitive and large scale communication, but game integration is clunky and unsupported.
+  * 
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
