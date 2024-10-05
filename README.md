@@ -23,7 +23,8 @@ Have you ever texted friends and thought that you want to do more, but everythin
 
 * Competitive analysis showed there is a niche that can be filled:
   * Discord: Excels in intuitive and large scale communication, but game integration is clunky and unsupported.
-  * 
+  * SnapChat: Excels in picture focused and temporary conversations, but user score is irrelevant.
+  * Pokemon Go: Excels in being a social game, but lacks a chat feature.
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
