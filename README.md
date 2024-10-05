@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # FightMe!
 
 Have you ever texted friends and thought that you want to do more, but everything requires more planning and effort than can be afforded? With FightMe, you can fight against your friends with characters that just chatting with people can level up.
@@ -23,7 +21,9 @@ Have you ever texted friends and thought that you want to do more, but everythin
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
+* Competitive analysis showed there is a niche that can be filled:
+* * Discord: Excels in intuitive and large scale communication, but game integration is clunky and unsupported.
+  * 
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
