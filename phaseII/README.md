@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Fight Me was created with the main objective of allowing our users the ability to make new friends, and jump right into riveting and engaging gameplay all the while maintaining a form of communication through our application. Our previous sprint left us with a rich amount of information, how easy our interface is to navigate, which features were important, and which features to prioritize. The focus for this sprint is to be able to use user feedback to help further develop the application’s features compared to our first sprint where we created just the interface.
 
 ## Methods
 
