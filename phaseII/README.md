@@ -15,6 +15,7 @@ The questions that we provided were:
 * Would you prefer idle games, forums that contribute to stats, or both?
 * Should we include profile pictures, or should users be solely represented by their avatar?
 * What is an acceptable amount of gambling/gacha features?
+
 The notes of the feedback were documented in the [Fight me demo feedback.pdf](https://github.com/user-attachments/files/17593607/Fight.me.demo.feedback.pdf).
 
 
