@@ -15,7 +15,7 @@ Going back to the homepage (Bottom left), the user can select the second button 
 
 ![Chats (Desktop)](https://github.com/user-attachments/assets/ffd71393-8f24-4422-820e-74141faecdff)
 
-This is the page where they can choose to reject or accept.
+This is the page where they can choose to reject or accept pending friend requeests.
 
 ![Pending Requests](https://github.com/user-attachments/assets/1a716f16-5425-4b45-9d73-ce1039f8ba93)
 
