@@ -10,3 +10,4 @@
 ![Chat room Mobile](https://github.com/user-attachments/assets/32131cb6-5508-463f-aa67-a09c3c9ef77e)
 ![Battle Page](https://github.com/user-attachments/assets/a9404da6-e775-4207-ace4-63014b2c1722)
 ![Fight Frame](https://github.com/user-attachments/assets/a34c1a36-6132-4ecb-a41e-5e9b50269151)
+![Home Screen (Android)](https://github.com/user-attachments/assets/5e098e75-cf83-420c-900b-d847b0da3658)
