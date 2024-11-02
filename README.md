@@ -46,7 +46,7 @@ Have you ever texted friends and thought that you want to do more, but everythin
 **Executive Summary**
 
 * Wireframes provided high fidelity visualization of the expected look of the application to facilitate more precise evaulation.
-* Two outside evaluators conducted cognitive walkthroughs with the aforementioned wireframes and the previous phase's personas and scenarios to determine:
+* Two outside evaluators conducted cognitive walkthroughs with the aforementioned wireframes and the previous phase's personas and scenarios to determine that while there were a few hiccups in navigation--i.e. a page missing a back arrow, navigation bar widgets not being labeled, and the "fight me" button to enter the fight stage not being distinct enough to make out from a title--the general layout of the application conforms with standards of messaging applications and should be easy to navigate.
 * During a demonstration, the software engineering team asked a crowd of 65 observers UX provided questions to get the following informal feedback:
 
 [Full phase II report](phaseII/)
