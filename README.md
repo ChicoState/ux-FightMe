@@ -45,10 +45,9 @@ Have you ever texted friends and thought that you want to do more, but everythin
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Wireframes provided high fidelity visualization of the expected look of the application to facilitate more precise evaulation.
+* Two outside evaluators conducted cognitive walkthroughs with the aforementioned wireframes and the previous phase's personas and scenarios to determine:
+* During a demonstration, the software engineering team asked a crowd of 65 observers UX provided questions to get the following informal feedback:
 
 [Full phase II report](phaseII/)
 
