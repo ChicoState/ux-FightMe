@@ -3,7 +3,7 @@
 ![Chats (Mobile)](https://github.com/user-attachments/assets/2964d10a-7ecf-4b03-ab3d-8cc92fc3cc0b)
 ![Chats (Desktop)](https://github.com/user-attachments/assets/ffd71393-8f24-4422-820e-74141faecdff)
 ![Pending Requests](https://github.com/user-attachments/assets/1a716f16-5425-4b45-9d73-ce1039f8ba93)
-![Other User Profile](https://github.com/user-attachments/assets/66691d60-e44a-403f-91d7-1866f86216d4)
+![Other User Profile](https://github.com/user-attachments/assets/4b205cb4-ed4c-4580-8d56-27115089196a)
 ![Chat room Desktop](https://github.com/user-attachments/assets/df19ff98-92a9-48ab-bf2e-3cc4ffa7e8d6)
 ![Chat room Mobile](https://github.com/user-attachments/assets/32131cb6-5508-463f-aa67-a09c3c9ef77e)
 ![Battle Page](https://github.com/user-attachments/assets/a9404da6-e775-4207-ace4-63014b2c1722)
