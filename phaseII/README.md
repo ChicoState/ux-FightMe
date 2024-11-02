@@ -31,7 +31,7 @@ The first and second questions revealed that user would want multiple trainable 
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Cognitive Walkthrough has allowed us to gain valuable insight on how clear our interface was for our personas to accomplish their goals using our application, such as chatting with friends. We were able to identify what vague or obscure features of our application needed to be made clearer, resulting in a more simpler approach towards designing our interface so that users were able to clearly identify how to interact with our app. It is important that users are able to navigate our application even with a limited amount of aesthetics such as pictures and colors, so we made sure to reduce the number of unnecessary transitions. From our informal feedback there was a lot of information regarding what features our application should be achieving. However, there was also a lot of contradictor information, so it is important that we are able to filter what feedback would help us achieve the problems/goals that we have set out to accomplish throughout the development of our application.
 
 ## Caveats
 
