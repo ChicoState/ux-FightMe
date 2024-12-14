@@ -4,7 +4,7 @@ Have you ever texted friends and thought that you want to do more, but everythin
 
 ## UX Team Members
 
-* **[Nikola Rakocevic](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Nikola Rakocevic](https://github.com/UsabilityEngineering/ux-journal-nrakocevic)** - !!!List of Person A's primary contributions!!!
 * **[Ray Perez](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Jose Fernando Herrera](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
