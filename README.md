@@ -13,7 +13,7 @@ Have you ever texted friends and thought that you want to do more, but everythin
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/design/rpGDX4bsxX63vPUkJVCsLL/Wireframe?node-id=161-402&t=MhVwbs8KhFhxk4yT-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
