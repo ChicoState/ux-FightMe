@@ -5,7 +5,7 @@ Have you ever texted friends and thought that you want to do more, but everythin
 ## UX Team Members
 
 * **[Nikola Rakocevic](https://usabilityengineering.github.io/ux-journal-nrakocevic/)** - !!!List of Person A's primary contributions!!!
-* **[Ray Perez](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Ray Perez](https://usabilityengineering.github.io/ux-journal-raperez2/)** - !!!List of Person B's primary contributions!!!
 * **[Jose Fernando Herrera](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
