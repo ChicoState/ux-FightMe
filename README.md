@@ -6,7 +6,7 @@ Have you ever texted friends and thought that you want to do more, but everythin
 
 * **[Nikola Rakocevic](https://usabilityengineering.github.io/ux-journal-nrakocevic/)** - Kept track of the Phase III methods, specifically writing out beginning blurb and the tasks. Was the madman that programmed the text field to work.
 * **[Ray Perez](https://usabilityengineering.github.io/ux-journal-raperez2/)** - The magic behind the transitions between wireframes and helped ensure that every single element in the wireframe was working as intended.
-* **[Jose Fernando Herrera](https://github.com/UsabilityEngineering/ux-journal-jfherrera02/)** - !!!List of Person C's primary contributions!!!
+* **[Jose Fernando Herrera](https://github.com/UsabilityEngineering/ux-journal-jfherrera02/)** - Took care of some of the art direction and designed the quest pages in the application.
 
 # User-Centered Design Artifacts
  
