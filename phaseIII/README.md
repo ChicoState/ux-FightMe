@@ -52,7 +52,7 @@ Here we were able to know whether or not the users had an easy time navigating t
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Our study suggests that our application does follow the standard principles of a messaging application, allowing the user to use their cognitive mapping to find where most of the application’s features are located in order to accomplish their tasks. Our application is able to meet expectations as a messaging application making it easy for users to carry out their expectations and have their needs fulfilled by our application such as messaging and interacting with other users. There are however some caveats such as with our innate feature, “FightMe”,  not being clearly expressed by our application. Features that were not clearly illustrated/designed to be appealing to users were often overlooked and in the case of “FightMe” appeared as unnecessary due there being a lack of clearness on what effect it would have on our application. Some of the users found it weird that completed quests were closed with a red X rather than just pressing the quest itself. The Quantitative data gave us a good view on what was the overall average success rate for the tasks that were given to our users. On average users were able to navigate through our prototype’s interface as well as be able to interact within our environment comfortably enough without us having to do any rapid changes due to functions not behaving up to performance.
 
 ## Conclusions
 
