@@ -6,7 +6,13 @@ Our project’s goal is to provide users with the ability to communicate with pe
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+There was a total of six (n=6) participants that were to assume the role of a user. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. The protocol is made up of three distinct sections:
+
+### Background Questions
+
+### Tasks
+
+### Debrief Questions
 
 ## Findings
 
