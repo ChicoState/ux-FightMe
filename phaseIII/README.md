@@ -6,7 +6,7 @@ Our project’s goal is to provide users with the ability to communicate with pe
 
 ## Methods
 
-There was a total of six (n=6) participants that were to assume the role of a user. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. We had to fight every instinct to help them as the tests were to see if they could do it on their own. The protocol is made up of three distinct sections:
+There was a total of six (n=6) participants that were to assume the role of a user. The users would use our [prototype](https://www.figma.com/design/rpGDX4bsxX63vPUkJVCsLL/Wireframe?node-id=161-402&t=8bM6TptiKEkieRY6-1), which consisted of the core features that were revealed with the help of our wireframes such as being able to add friends and send messages. These features were then encapsulated within a functioning UI interface where the user is able to navigate through their messages, profile, or back to the homepage. This was done in order to simulate real world applications in order to ensure we get accurate information and feedback. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. We had to fight every instinct to help them as the tests were to see if they could do it on their own. The protocol is made up of three distinct sections:
 
 ### Background Questions
 
@@ -18,9 +18,9 @@ There was a total of six (n=6) participants that were to assume the role of a us
 
 **Task 3:** The user had to train to increase their magic score, one out of three skills that can be trained and affect fights. As usual, it was a matter of finding the page, but while we were doing the pilot test, we determined that a video game controller D-pad might not be a good icon to represent the training page, so we switched it to a dumbbell. We needed to see if that natural mapping was a positive improvement.
 
-**Task 4:**
+**Task 4:** The user had to turn in a daily quest and a personal quest that they completed from doing all of the different fights. Considering this is what will maintain user engagement other than talking with friends and will be the main source of score for users, it’s important that this process goes as efficiently as possible.
 
-**Task 5:**
+**Task 5:** To test how our application fared in similarity to other messaging applications, users were tasked with purchasing a new profile picture through the shop and then apply their new choices in their profile’s settings. The effectiveness of the shop is extra important as there is the potential for real money to be spent here.
 
 ### Debrief Questions
 
