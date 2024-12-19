@@ -8,7 +8,7 @@ Our project’s goal is to provide users with the ability to communicate with pe
 
 There was a total of six (n=6) participants that were to assume the role of a user. The users would use our [prototype](https://www.figma.com/design/rpGDX4bsxX63vPUkJVCsLL/Wireframe?node-id=161-402&t=8bM6TptiKEkieRY6-1), which consisted of the core features that were revealed with the help of our wireframes such as being able to add friends and send messages. These features were then encapsulated within a functioning UI interface where the user is able to navigate through their messages, profile, or back to the homepage. This was done in order to simulate real world applications in order to ensure we get accurate information and feedback. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. We had to fight every instinct to help them as the tests were to see if they could do it on their own. The protocol is made up of three distinct sections:
 
-### Background Questions
+### -Background Questions
 <ins>**What messaging services do you use?**</ins>
 
 This question was asked in order to analyze who our competitors are since messaging is one of the main functions of our application. It also served to give us insight into why these applications are so widely used.
@@ -21,7 +21,7 @@ We asked this question in order to know what are some of the users favorite comp
 
 With this question, we were able to gain valuable insight into what users were mostly unhappy with when using messaging applications and would serve as a guide for us in avoiding those problems. 
 
-### Tasks
+### -Tasks
 
 **Task 1:** The user was tasked with finding a friend request that was sent to them–we specified that it was from a user going by LadiesMan217–, accepting it, then going through the battle for friendship. Realistically, the prototype should have only made the friendship happen when the user loses, but the point of this task was to see if they were capable of finding where the friend requests are and understand–without prompting–that friends requests are determined with a fight unlike other messaging apps. It was important to see how well this task was done, because every other functionality in the app depended on it and it was the only feature defined in the original project idea.
 
@@ -33,7 +33,7 @@ With this question, we were able to gain valuable insight into what users were m
 
 **Task 5:** To test how our application fared in similarity to other messaging applications, users were tasked with purchasing a new profile picture through the shop and then apply their new choices in their profile’s settings. The effectiveness of the shop is extra important as there is the potential for real money to be spent here.
 
-### Debrief Questions
+### -Debrief Questions
 <ins>**What are some features you would like to see?**</ins>
 
 This question was asked to assess what kind of features our application would benefit from and what it may have lacked due to some unmet user expectations. Users may have expected a certain button or page to be available somewhere that was not met and through this question we were able to identify it.
