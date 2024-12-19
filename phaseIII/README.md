@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Our project’s goal is to provide users with the ability to communicate with people through the common interest of the game provided with our application, FightMe. Picking up from the wireframes that we made during Phase Two, we are moving forward to refine and implement them into an interactable representation of how users would interact with our application’s features. This will be achieved through User Testing and the use of protocols to gather accurate data on our application’s functionality as well as to help access what features are to be changed/improved.
 
 ## Methods
 
@@ -18,4 +18,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+There were several limitations in the features that we were able to implement due to the use of Figma. Features such as text fields, sending videos/pictures as well as any form of animations that were not for transitions were not advised by figma. To illustrate the complexities with one feature, the only conceivable way to implement the text field was to manually create a handle case for every key on the board to append to a local string or replace the default text. This resulted in some less than ideal performance during the user testing phase when having to study how our prototype’s features functioned. This also means that we were unable to represent the dungeon video game that the software engineering team was actually able to implement in any meaningful way. As for limitations regarding our testing population, everyone was a college student (presumably) over the age of twenty. While that aligns with our target demographic, these were also technology and engineering majors, who are highly likely to be more versed in applications than the average college student, who are in turn much more technologically proficient than other age groups. The success rate of tasks could be much lower in a natural scenario. We also assumed that everyone was well aware of how messaging applications work, which could have definitely been proven wrong.
