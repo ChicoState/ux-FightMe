@@ -6,11 +6,21 @@ Our project’s goal is to provide users with the ability to communicate with pe
 
 ## Methods
 
-There was a total of six (n=6) participants that were to assume the role of a user. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. The protocol is made up of three distinct sections:
+There was a total of six (n=6) participants that were to assume the role of a user. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. We had to fight every instinct to help them as the tests were to see if they could do it on their own. The protocol is made up of three distinct sections:
 
 ### Background Questions
 
 ### Tasks
+
+**Task 1:** The user was tasked with finding a friend request that was sent to them–we specified that it was from a user going by LadiesMan217–, accepting it, then going through the battle for friendship. Realistically, the prototype should have only made the friendship happen when the user loses, but the point of this task was to see if they were capable of finding where the friend requests are and understand–without prompting–that friends requests are determined with a fight unlike other messaging apps. It was important to see how well this task was done, because every other functionality in the app depended on it and it was the only feature defined in the original project idea.
+
+**Task 2:** The user had to initiate a fight with someone they were chatting with (BillyBobbyFerguson) and go through the game. The messaging aspect is a tried and true convention that every tester probably has experience with and it is a feature we could just not display correctly in this prototype, so it was more important that we determined if they could find the chatrooms and the app’s defining feature. Even though the user would have battled in the previous task, making it the focus of this one allowed us to see if they would understand how the game should be played and if they would click on documentation if they could not.
+
+**Task 3:**
+
+**Task 4:**
+
+**Task 5:**
 
 ### Debrief Questions
 
