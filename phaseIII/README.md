@@ -16,7 +16,7 @@ There was a total of six (n=6) participants that were to assume the role of a us
 
 **Task 2:** The user had to initiate a fight with someone they were chatting with (BillyBobbyFerguson) and go through the game. The messaging aspect is a tried and true convention that every tester probably has experience with and it is a feature we could just not display correctly in this prototype, so it was more important that we determined if they could find the chatrooms and the app’s defining feature. Even though the user would have battled in the previous task, making it the focus of this one allowed us to see if they would understand how the game should be played and if they would click on documentation if they could not.
 
-**Task 3:**
+**Task 3:** The user had to train to increase their magic score, one out of three skills that can be trained and affect fights. As usual, it was a matter of finding the page, but while we were doing the pilot test, we determined that a video game controller D-pad might not be a good icon to represent the training page, so we switched it to a dumbbell. We needed to see if that natural mapping was a positive improvement.
 
 **Task 4:**
 
