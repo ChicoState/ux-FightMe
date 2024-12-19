@@ -9,15 +9,15 @@ Our project’s goal is to provide users with the ability to communicate with pe
 There was a total of six (n=6) participants that were to assume the role of a user. The users would use our [prototype](https://www.figma.com/design/rpGDX4bsxX63vPUkJVCsLL/Wireframe?node-id=161-402&t=8bM6TptiKEkieRY6-1), which consisted of the core features that were revealed with the help of our wireframes such as being able to add friends and send messages. These features were then encapsulated within a functioning UI interface where the user is able to navigate through their messages, profile, or back to the homepage. This was done in order to simulate real world applications in order to ensure we get accurate information and feedback. We had a [protocol](https://github.com/user-attachments/files/18191653/Fight.Me.Usability.Test.Protocol-1.pdf) in place as to how we were to conduct the user tests. Firstly, tasks were fixed order as each one would require the previous ones completed to do in real life as well. Users were encouraged to think aloud about what actions they were taking and what assumptions they were making so that it was easier for us to note. We had to fight every instinct to help them as the tests were to see if they could do it on their own. The protocol is made up of three distinct sections:
 
 ### Background Questions
-**What messaging services do you use?** 
+<ins>**What messaging services do you use?**</ins>
 
 This question was asked in order to analyze who our competitors are since messaging is one of the main functions of our application. It also served to give us insight into why these applications are so widely used.
 
-**What are your favorite features of them?**
+<ins>**What are your favorite features of them?**</ins>
 
 We asked this question in order to know what are some of the users favorite components for a specific messaging application as it will allow us to make improvements to our application if needed. For example, group chats were a common feature that many of our users mentioned.
 
-**What things could be improved?**
+<ins>**What things could be improved?**</ins>
 
 With this question, we were able to gain valuable insight into what users were mostly unhappy with when using messaging applications and would serve as a guide for us in avoiding those problems. 
 
@@ -34,19 +34,19 @@ With this question, we were able to gain valuable insight into what users were m
 **Task 5:** To test how our application fared in similarity to other messaging applications, users were tasked with purchasing a new profile picture through the shop and then apply their new choices in their profile’s settings. The effectiveness of the shop is extra important as there is the potential for real money to be spent here.
 
 ### Debrief Questions
-**What are some features you would like to see?**
+<ins>**What are some features you would like to see?**</ins>
 
 This question was asked to assess what kind of features our application would benefit from and what it may have lacked due to some unmet user expectations. Users may have expected a certain button or page to be available somewhere that was not met and through this question we were able to identify it.
 
-**Are there any elements of the app that you did not like or found difficult to use?**
+<ins>**Are there any elements of the app that you did not like or found difficult to use?**</ins>
 
 Here we were able to find components that needed the most attention as they brought out dissatisfaction to the user experience.
 
-**What do you like most about the app?**
+<ins>**What do you like most about the app?**</ins>
 
 Through this question it was made evident what made the users have the greatest experience and allowed us to understand what kind of features or concepts our application excelled in. Therefore, it is priceless information as it will allow us to augment what our application excels in.
 
-**Is the layout easy to navigate and follow? What changes could be made?**
+<ins>**Is the layout easy to navigate and follow? What changes could be made?**</ins>
 
 Here we were able to know whether or not the users had an easy time navigating through our application, and fortunately most answered that they did. As a result, we discovered that we could focus on other aspects of the application to improve rather than our layout and ease of navigation. 
 
