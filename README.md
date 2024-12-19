@@ -57,10 +57,13 @@ Have you ever texted friends and thought that you want to do more, but everythin
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Findings show that our application meets user expectations for a messaging and gaming platform, but leaves some room for improvement.
+  * Features can be made more obvious and an introduction to the FightMe concept can be given so users can have an improved understanding of the game.
+  * Layout and ease of use of our application was one of the greatest strenghts according to users.
+  * The FightMe battle page was found to be intuitive and easy to use.
+* Unique Aspects
+  * Purchases can be made via the store found in the home page where users can purchase items, such as themes and profile pictures, to customize their applications
+  * There is a training mode available where users can increase a specific in-game stat, and there are quests that offer rewards for various activities in the application.
+* There was a total of 6 participants that tested our application giving insightful feedback.
 
 [Full phase III report](phaseIII/)
