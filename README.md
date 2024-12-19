@@ -5,8 +5,8 @@ Have you ever texted friends and thought that you want to do more, but everythin
 ## UX Team Members
 
 * **[Nikola Rakocevic](https://usabilityengineering.github.io/ux-journal-nrakocevic/)** - Kept track of the Phase III methods, specifically writing out the beginning blurb and the tasks. Dealt with variants and components that affected attributes of the prototype. Designed the battle page after his own implementation on the software engineering side. Was the madman that programmed the text field to work.
-* **[Ray Perez](https://usabilityengineering.github.io/ux-journal-raperez2/)** - The magic behind the transitions between wireframes and helped ensure that every single element in the wireframe was working as intended. Ensuring that everything was able to work smoothly through testing the wireframes's transitions, everything was connected in a way that made sense. Tinkered with the variables in the Figma environment so that user customizability is maintained, aiding the illusion of functionality mimicing that of a fully fledged product. Guided talks and discussions making sure that everyone had a good understanding of what needed to be done and provided a sanity check on what was to be prioritized.
-* **[Jose Fernando Herrera](https://github.com/UsabilityEngineering/ux-journal-jfherrera02/)** - Took care of some of the art direction and designed the quest pages in the application. Reviewed the functionality of our prototype and contributed to fixing any bugs present. Helped asses our user protocol and task that would be used for our research in order to ensure a smooth examination process.
+* **[Ray Perez](https://usabilityengineering.github.io/ux-journal-raperez2/)** - The magic behind the transitions between wireframes and helped ensure that every single element in the wireframe was working as intended. Ensuring that everything was able to work smoothly through testing the wireframes's transitions, everything was connected in a way that made sense. Tinkered with the variables in the Figma environment so that user customizability is maintained, aiding the illusion of functionality mimicking that of a fully fledged product. Guided talks and discussions making sure that everyone had a good understanding of what needed to be done and provided a sanity check on what was to be prioritized.
+* **[Jose Fernando Herrera](https://github.com/UsabilityEngineering/ux-journal-jfherrera02/)** - Took care of some of the art direction and designed the quest pages in the application. Reviewed the functionality of our prototype and contributed to fixing any bugs present. Helped assess our user protocol and task that would be used for our research in order to ensure a smooth examination process.
 
 # User-Centered Design Artifacts
  
@@ -62,8 +62,8 @@ Have you ever texted friends and thought that you want to do more, but everythin
   * Layout and ease of use of our application was one of the greatest strenghts according to users.
   * The FightMe battle page was found to be intuitive and easy to use.
 * Unique Aspects
-  * Purchases can be made via the store found in the home page where users can purchase items, such as themes and profile pictures, to customize their applications
+  * Purchases can be made via the store found in the home page where users can purchase items, such as themes and profile pictures, to customize their applications.
   * There is a training mode available where users can increase a specific in-game stat, and there are quests that offer rewards for various activities in the application.
-* There was a total of 6 participants that tested our application giving insightful feedback.
+* There was a total of six (n=6) participants that tested our application, giving insightful feedback.
 
 [Full phase III report](phaseIII/)
